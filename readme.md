@@ -10,6 +10,21 @@
 </p>
 
 ---
+🖼️ Screenshots
+
+📊 Admin Profile  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_profile.png?raw=true" width="700"/>
+
+📝 Assign Task  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_assign_task.png?raw=true" width="700"/>
+
+📢 Employee Announcements  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_announcement.png?raw=true" width="700"/>
+
+📋 Employee Dashboard  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_dashboard.png?raw=true" width="700"/>
+
+---
 
 ## 🚀 Overview
 
