@@ -19,7 +19,7 @@
 <img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_assign_task.jpeg?raw=true" width="700"/>
 
 📢 Employee Announcements  
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_announcement.jpeg?raw=true" width="700"/>
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_annoucement.jpeg?raw=true" width="700"/>
 
 📋 Employee Dashboard  
 <img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_dashboard.jpeg?raw=true" width="700"/>
