@@ -10,22 +10,6 @@
 </p>
 
 ---
-🖼️ Screenshots
-
-📊 Admin Profile  
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_profile.jpeg?raw=true" width="700"/>
-
-📝 Assign Task  
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_assign_task.jpeg?raw=true" width="700"/>
-
-📢 Employee Announcements  
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_annoucement.jpeg?raw=true" width="700"/>
-
-📋 Employee Dashboard  
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_dashboard.jpeg?raw=true" width="700"/>
-
-
----
 
 ## 🚀 Overview
 
@@ -77,6 +61,24 @@ The **Employee Management System** is a full-stack web application built with **
 | Tools       | XAMPP/WAMP, phpMyAdmin        |
 | Optional UI | Bootstrap, Font Awesome       |
 
+
+---
+## 🖼️ Screenshots
+
+### 📊 Admin Profile  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_profile.jpeg?raw=true" width="700"/>
+
+### 📝 Assign Task  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin_assign_task.jpeg?raw=true" width="700"/>
+
+### 📢 Employee Announcements  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_annoucement.jpeg?raw=true" width="700"/>
+
+### 📋 Employee Dashboard  
+<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee_dashboard.jpeg?raw=true" width="700"/>
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 🔧 Prerequisites
@@ -113,19 +115,3 @@ CREATE TABLE `employee` (
   `salary` INT,
   `dp` VARCHAR(255) DEFAULT '1.jpg'
 );
-
-
-## 🖼️ Screenshots
-
-### 🧑‍💼 Admin - Profile Management
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin-profile.png?raw=true" width="700"/>
-
-### ✅ Admin - Assign Task to Employees
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/admin-assign-task.png?raw=true" width="700"/>
-
-### 📢 Employee - View Announcements
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee-announcement.png?raw=true" width="700"/>
-
-### 🏠 Employee - Dashboard View
-<img src="https://github.com/imrinal/Employee-Management-System/blob/main/docs/employee-dashboard.png?raw=true" width="700"/>
-```
