@@ -50,6 +50,17 @@ The **Employee Management System** is a full-stack web application built with **
 - Change password
 
 ---
+## 💻 Credentials
+
+### 👑 Admin Portal 
+> **Login ID:** `admin1@admin.com`  
+> **Password:** `1234`
+
+### 👤 Employee Panel
+> **Login ID:** `emp1@emp.com`  
+> **Password:** `1234`
+---
+
 
 ## 🛠 Tech Stack
 
